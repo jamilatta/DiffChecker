@@ -8,3 +8,12 @@ Durante a renovação da arquitetura foi necessário transformar artigo no forma
 
 O DiffChecker tem esse propósito garantir que o conteúdo produzido pelo **SciELO** entre **1998** até arpximadamente **2012**, não se perderá durante esse processo de renovação da arquitetura.
 
+## Capacidades que podemos adicionar:
+
+ - Que seja possível realizar a avaliação de apenas um ou vários **artigos**;
+ - Que possa ser utilizado por outro software, por exemplo, o DS_MIGRAÇÃO;
+ - Que todas as variáveis sejam parametrizavéis;
+ - Que o tempo de execução seja o mais baixo possível;
+ - Que o resultado posso ser exbido no console ou em HTML, devo ter saída em HTML e no console;
+ - Que tenha uma classificação baseado na porcentagem da igualdade.
+ -
