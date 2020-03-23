@@ -16,4 +16,3 @@ O DiffChecker tem esse propósito garantir que o conteúdo produzido pelo **SciE
  - Que o tempo de execução seja o mais baixo possível;
  - Que o resultado posso ser exbido no console ou em HTML, devo ter saída em HTML e no console;
  - Que tenha uma classificação baseado na porcentagem da igualdade.
- -
