@@ -6,5 +6,5 @@ Durante um bom tempo o **SciELO** realizou a entrada dos dados através de arqui
 
 Durante a renovação da arquitetura foi necessário transformar artigo no formato HTML para XML e para garantirmos que o resultado dessa transformação não alterou ou removeu dados é necessário uma ferramenta para verificar.
 
-O DiffChecker tem esse propósito garantir que o conteúdo produzido pelo **SciELO** entre 1998 até arpximadamente 2012, não se perderá durante esse processo de renovação da arquitetura.
+O DiffChecker tem esse propósito garantir que o conteúdo produzido pelo **SciELO** entre **1998** até arpximadamente **2012**, não se perderá durante esse processo de renovação da arquitetura.
 
